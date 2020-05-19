@@ -2,7 +2,7 @@
 tags: [Case Study]
 title: Translation Case Study
 created: '2020-05-18T17:09:59.387Z'
-modified: '2020-05-18T23:06:46.080Z'
+modified: '2020-05-19T00:20:32.108Z'
 ---
 
 # Translation Case Study
@@ -43,9 +43,10 @@ The original sentence is talking about two events in the future, but emphasizing
 #### Observations
 * 「です」 without a time clause is generally assumed to refer to the current moment even if it's being used to refer to a future event.
 * 「もう」 is typically used with past-tense verbs to indicate "already" as in 「もう食べました。」 ("I already ate.").
-  * 「もう」 *can* be used with non-past constructions to indicate already, but usually only with 「です」.
+  * 「もう」 *can* be used with non-past constructions to indicate already, but usually only with 「です」 or stative 「～ている」 verbs.
     * E.g., 「もう朝です。」 means "It *is* already morning," whereas 「もう朝でした。」 means "It *was* already morning."
     * E.g., 「もう三時です。」 means "It *is* already 3."
+    * E.g., 「もう知っています。」 means "I already know."
 * 「～時」 realtively specifies when the two clauses occur in relation to each other.
 
 #### Verdict
@@ -61,7 +62,7 @@ So overall, this translation does get the job done, but it is a little awkward w
 #### Observations
 Since 「なる」 means "to become" and 「です」 means "to be," they can sometimes be used interchangeably.
 * 「朝です」("It is morning.") ＝「朝になりました」(lit. "It became morning.") ＝「朝になっています」("It has become morning.")
-* 「あさでした」("It was morning.") ＝「朝になっていました」(lit. "It had become morning.")
+* 「朝でした」("It was morning.") ＝「朝になっていました」(lit. "It had become morning.")
 
 #### Verdict
 This translation is explicitly referring to the future, but now sounds awkward using 「もう」.
@@ -70,7 +71,7 @@ This translation is explicitly referring to the future, but now sounds awkward u
 > 私が起きる時、もう朝になっています。
 
 This and the next translation require a bit of interpretation.
-* Using 「なっている」 in this case is not only being explicit about the future but also that there will be a *change* to morning by the time I wake up.
+* Using 「なっている」 in this case is not only being explicit about the future but also that there *will have been a change* to morning by the time I wake up.
 
 #### Observations
 * The ～ている form of 「なる」 does not indicate "becoming" as it is one of those verbs that indicates a change in state. E.g., 「結婚しています」 for "am married."
