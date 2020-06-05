@@ -2,7 +2,7 @@
 tags: [General]
 title: Roadmap
 created: '2020-05-09T13:04:14.389Z'
-modified: '2020-05-18T23:07:07.391Z'
+modified: '2020-06-05T00:13:48.730Z'
 ---
 
 # Roadmap
@@ -44,35 +44,51 @@ modified: '2020-05-18T23:07:07.391Z'
 * This is mainly to fill in the gaps not covered by the Genki series to make the transition to intermediate and advanced Japanese smoother
 
 #### Specific Topics
-* Time
-  * Ask and tell what time it is
-  * Ask for and tell when an event it
-  * Specify ranges of time
-  * "For X [measurement of time]"
-  * Action order (後、前、～てから)
-* Particles
-  * 「もう」と「まだ」
-  * 「だけ」と「しか」
-  * 「から」と「まで」
-  * 「に」 for indirect objects
-  * etc.
-* Location and Movement
-  * Ask for and give directions
-  * Describe where something is
-* こそあど Words
-  * どれ Group
-  * どの Group
-  * どこ Group
-  * どんな Group
-  * どっち Group
-  * どちら Group
-* Converting Adjectives to Adverbs
-* Interrogatives
-  * 「なぜ」と「どうして」と「何で」の違い
-    * Spoiler alert: the only difference is that なぜ is more formal
-  * 「どう」と「どうして」と「どうやって」の違い
-  * 「なんか」
+
+###### Time
+* Ask and tell what time it is
+* Ask for and tell when an event it
+* Specify ranges of time
+* "For X [measurement of time]"
+* Action order (後、前、～てから)
+
+###### Particles
+* 「もう」と「まだ」
+* 「だけ」と「しか」
+* 「から」と「まで」
+* 「に」 for indirect objects
+* etc.
+
+###### Location and Movement
+* Ask for and give directions
+* Describe where something is
+
+###### こそあど Words
+* どれ Group
+* どの Group
+* どこ Group
+* どんな Group
+  * ～に
+* どっち/どちら Group
+* どいつ Group
+* どなた Group
+
+###### Interrogatives
+* 「なぜ」と「どうして」と「何で」
+  * Spoiler alert: the only difference is that なぜ is more formal
+* 「どう」と「どうして」と「どうやって」
+
+###### Differences and Mistakes
 * 「同じです」と「違います」
+* 「違う」と「違い」
+* 「間違う」と「間違える」と「しまう」
+
+###### Conjunctions
+* 「でも」と「が」と「けど」と「のに」
+* 「から」と「ので」
+
+###### Misc.
+* Converting Adjectives to Adverbs
 
 ## Advanced
 * Utilize [online resources](./Japanese Resources.md) to learn grammer not taught in Genki

@@ -2,7 +2,7 @@
 tags: [General]
 title: Japanese Resources
 created: '2020-05-06T09:27:30.445Z'
-modified: '2020-05-18T23:07:03.415Z'
+modified: '2020-05-29T21:51:58.537Z'
 ---
 
 # Japanese Resources
@@ -77,6 +77,10 @@ modified: '2020-05-18T23:07:03.415Z'
   * Be sure to look at the Kanji and About pages for more information.
 * [Kanji by Concept](https://en.wikipedia.org/wiki/List_of_kanji_by_concept)
 * [常用漢字](https://en.wikipedia.org/wiki/List_of_j%C5%8Dy%C5%8D_kanji)
+
+#### Misc.
+* [「～ないで」と「～なくて」](https://answers.yahoo.com/question/index?qid=20130427181347AAknxAD)
+* [Making Mistakes](https://www.japanesewithanime.com/2016/10/chigau-machigatteiru-meaning.html)
 
 ## General Resources
 | Name | Description |
