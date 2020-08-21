@@ -2,7 +2,7 @@
 tags: [Grammar]
 title: Speaking without Knowing
 created: '2020-05-07T04:34:38.186Z'
-modified: '2020-05-18T23:07:12.823Z'
+modified: '2020-08-21T19:22:24.215Z'
 ---
 
 # [Speaking without Knowing](https://youtu.be/_IOZbJ7PCPk?t=467)
@@ -29,7 +29,7 @@ modified: '2020-05-18T23:07:12.823Z'
   * E.g., 歌う means "to sing," but 歌うこと means "(the action of) singing."
   * の is also used to nominalize verbs, but has different nuances than こと
   * Note that the kanji for こと (事) is not used for nominalizing as there are words that incorporate 事 into them
-  * This is the same grammar point used in 「～たことがある」
+  * This is the same grammar point used in 「～たことがある」 and is similar to other grammar points that use nouns (e.g., 「～つもり」)
 
 ## Examples
 * Forgot "library" (図書館)? Say 「本を貸し出すところ」 for "place that lends books."

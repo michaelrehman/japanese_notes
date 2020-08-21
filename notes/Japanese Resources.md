@@ -2,12 +2,11 @@
 tags: [General]
 title: Japanese Resources
 created: '2020-05-06T09:27:30.445Z'
-modified: '2020-05-29T21:51:58.537Z'
+modified: '2020-08-21T19:41:49.752Z'
 ---
 
 # Japanese Resources
 * This is an index of external resources listed in *no particular order* for learning Japanese.
-* If choosing to learn pitch accent, I personally recommend focusing on building a strong grammar foundation first.
 
 ## Specific Topics
 
@@ -78,6 +77,34 @@ modified: '2020-05-29T21:51:58.537Z'
 * [Kanji by Concept](https://en.wikipedia.org/wiki/List_of_kanji_by_concept)
 * [常用漢字](https://en.wikipedia.org/wiki/List_of_j%C5%8Dy%C5%8D_kanji)
 
+#### Compound Verbs
+* [Compound Verb Lexicon](https://db4.ninjal.ac.jp/vvlexicon/en)
+  * This is the best resource out of all the ones in this section.
+* [The Transitivity of Compound Verbs](https://japanese.stackexchange.com/questions/21461)
+
+#### Subsidary Verbs
+* [Defining Subsidary Verbs](https://japanese.stackexchange.com/questions/18952)
+* [Subsidary ～て Verbs vs. Compound Verbs](https://japanese.stackexchange.com/questions/21461)
+  * Note that the person asking the question is mistaken that verbs of the V-te-V pattern count as compound verbs.
+* Note that this section differs from the **Vs** pattern defined in the Compund Verb Lexicon.
+  * This section defines subsidary verbs as those that have grammtical meaning when appended to a verb's ～て form.
+  * The above [Compound Verbs](#compound-verbs) section defines subsidary verbs as those that lose most of their meaning when appended to a verb's stem.
+
+#### Contractions
+* [Japanese with Anime Article](https://www.japanesewithanime.com/2019/07/contractions.html)
+* [Japanese Tactics Article](https://japanesetactics.com/japanese-contractions)
+* I have also found that some people will contract "r-n-" patterns to "nn-".
+  * E.g., 「何を言っているのか全然分からなかった」ー＞「何言ってんのか全然分かんなかった」
+  * E.g., 「聞いているのか？」ー＞「聞いてんのか？」
+    * Note that 「～ている」 being contracted to 「～てる」 is its own contraction.
+
+#### Lexical vs. Syntactic
+* **lexical**: added to the language as an officially recognized word/phrase and exist in a dictionary
+  * たとえば、「出て来る」、「思い出す」、「走り出す」、「食べすぎる」、「男の子」、「アメリカ映画」など
+  * Some of these words are actually tought as syntactic formations.
+* **syntactic**: an unofficial word/phrase formed by the combining of words with a certain syntax
+  * たとえば、「読み続ける」、「死んでしまう」、「食べたい」、「書きすぎる」、「配信者」、「アメリカの映画」など
+
 #### Misc.
 * [「～ないで」と「～なくて」](https://answers.yahoo.com/question/index?qid=20130427181347AAknxAD)
 * [Making Mistakes](https://www.japanesewithanime.com/2016/10/chigau-machigatteiru-meaning.html)
@@ -86,13 +113,20 @@ modified: '2020-05-29T21:51:58.537Z'
 | Name | Description |
 | :--: | ----------- |
 | [A Language Learning Plan](https://www.youtube.com/watch?v=_IOZbJ7PCPk) | A ***basic*** learning plan for hurried beginners. |
-| [Maggie Sensei](http://maggiesensei.com/) | Quality articles on Japanese grammar. |
-| [Genki Study Games](https://genkistudygames.com/) | Study games to be used in conjunction with the Genki series. |
-| [JGram](http://www.jgram.org/) | Japanese grammar database. |
-| [renshuu.org](https://www.renshuu.org/) | Japanese grammar rules and examples. |
-| [baileysnyder.com/jconj/](http://baileysnyder.com/jconj/) | Basic Japanese conjugation practice. |
+| [Maggie Sensei](http://maggiesensei.com) | Quality articles on Japanese grammar. |
+| [Genki Study Games](https://genkistudygames.com) | Study games to be used in conjunction with the Genki series. |
+| [JGram](http://www.jgram.org) | Japanese grammar database. |
+| [renshuu.org](https://www.renshuu.org) | Japanese grammar rules and examples. |
+| [baileysnyder.com/jconj](https://baileysnyder.com/jconj) | Basic Japanese conjugation practice. |
 * JGram doesn't seem like it has been updated recently, but data is data.
-* renshuu.org has rules on specific grammar, so I highly recommend it.
+* `renshuu.org` has rules on specific grammar, so I highly recommend it even if it isn't the best.
+
+#### Japanese Guides
+| Guide | Description | 
+| :--------: | ----------- |
+| [Learn Japanese: Tae Kim's Guide to Learning Japanese](http://www.guidetojapanese.org/learn) | Contains two guides: the [Complete Guide](http://www.guidetojapanese.org/learn/complete) and the [Grammar Guide](http://www.guidetojapanese.org/learn/grammar). |
+| [Sakubi: Yesterday's Grammar Guide](https://sakubi.neocities.org) | A spiratual succesor to "Tae Kim's Guide to Japanese Grammar." |
+* As explained on the website, Tae Kim's Complete Guide is more beginner friendly whereas Tae Kim's Grammar Guide gives more detailed explanations.
 
 #### Textbooks
 | Textbook | Description |
@@ -108,10 +142,10 @@ modified: '2020-05-29T21:51:58.537Z'
 #### Apps
 | App | Description |
 | :-: | ----------- |
-| [Anki](https://apps.ankiweb.net/) | A sopshitaced piece of software for learning important bite-sized concepts. |
-| [italki](https://www.italki.com/) | Learn from native speakers. |
-| [HelloTalk](https://www.hellotalk.com/) | Chat with native speakers. |
-| [LingoDeer](https://www.lingodeer.com/) | Learn beginner to intermediate Japanese. |
+| [Anki](https://apps.ankiweb.net) | A sopshitaced piece of software for learning important bite-sized concepts. |
+| [italki](https://www.italki.com) | Learn from native speakers. |
+| [HelloTalk](https://www.hellotalk.com) | Chat with native speakers. |
+| [LingoDeer](https://www.lingodeer.com) | Learn beginner to intermediate Japanese. |
 * Refer to the following videos for an introduction to using Anki for language learning
   1. [Anki Tutorial 1 of 2](https://youtu.be/lz60qTP2Gx0)
   2. [Anki Tutorial 2 of 2](https://youtu.be/OMCCeeHnaFA)
@@ -124,7 +158,7 @@ modified: '2020-05-29T21:51:58.537Z'
 | YouTuber | Description |
 | :------: | ----------- |
 | [Abroad in Japan](https://www.youtube.com/user/cmbroad44) | Stuff about Japan. |
-| [Dogen](https://www.youtube.com/user/Dogen) | Pitch accent and comedic videos on Japanese, among other things. |
+| [Dogen](https://www.youtube.com/user/Dogen) | Pitch accent and comedic videos in Japanese. |
 | [Matt vs. Japan](https://www.youtube.com/user/MATTvsJapan) | For tips on using immersion to learn your target language. |
 | [Miku Real Japanese](https://www.youtube.com/channel/UCsQCbl3a9FtYvA55BxdzYiQ) | Learn Japanese from a native speaker that also speaks fluent English. |
 | [Nobita from Japan](https://www.youtube.com/channel/UCcIsxujzLRO5qY5f9buahCQ) | Covers issues in Japan. |
@@ -135,10 +169,10 @@ modified: '2020-05-29T21:51:58.537Z'
 * Note that Matt vs. Japan also has multiple videos on an Anki add-on for improving Japanese language learning, including pitch accent.
 * Some of Abroad in Japan's older videos cover resources for learning the language.
 * Yuta has videos on the Japanese language that can be viewed by subscribing to his email list.
-* Nobita's and Yuta's content is similar.
 
 #### Subreddits
 | Subreddit | Description |
 | :-------: | ----------- |
 | [r/LearnJapanese](https://www.reddit.com/r/LearnJapanese/) | The central hub for Japanese language learners on Reddit. |
 | [r/genki](https://www.reddit.com/r/genki/) | Discussing the Genki series. |
+

@@ -2,7 +2,7 @@
 tags: [General]
 title: Roadmap
 created: '2020-05-09T13:04:14.389Z'
-modified: '2020-06-05T00:13:48.730Z'
+modified: '2020-08-21T19:44:15.218Z'
 ---
 
 # Roadmap
@@ -11,7 +11,7 @@ modified: '2020-06-05T00:13:48.730Z'
 **JLPT N4 on December 6, 2020**
 
 ## Layout
-1. 1. [ ] [Genki I](#genki-i)
+1. 1. [x] [Genki I](#genki-i)
 2. 2. [ ] [Genki II](#genki-ii)
 3. 3. [ ] [Supplemental](#supplemental)
 4. 4. [ ] [Advanced](#advanced)
@@ -27,16 +27,18 @@ modified: '2020-06-05T00:13:48.730Z'
   * Feel free to completely ignore studying intonation and pitch accent
 
 ## Genki I
-* Genki I Textbook
-* Genki I Workbook
-* Supplement Genki I 文法 with [online resources](./Japanese Resources.md)
+- [x] Genki I Textbook
+- [x] Genki I Workbook
+- [x] Supplement Genki I 文法 with [online resources](./Japanese Resources.md)
   * I.e., elaborate on the presented grammar
+  * Remember to go back over the expression notes presented in the textbook
 
 ## Genki II
-* Genki II Textbook
-* Genki II Workbook
-* Supplement Genki II 文法 with [online resources](./Japanese Resources.md)
+- [ ] Genki II Textbook
+- [ ] Genki II Workbook
+- [ ] Supplement Genki II 文法 with [online resources](./Japanese Resources.md)
   * I.e., elaborate on the presented grammar
+  * Remember to go back over the expression notes presented in the textbook
 
 ## Supplemental
 * [Japanese From Zero! YouTube](https://www.youtube.com/playlist?list=PLOcym2c7xnBwU12Flkm5RcLIEhvURQ8TB)
@@ -46,52 +48,56 @@ modified: '2020-06-05T00:13:48.730Z'
 #### Specific Topics
 
 ###### Time
-* Ask and tell what time it is
-* Ask for and tell when an event it
-* Specify ranges of time
-* "For X [measurement of time]"
-* Action order (後、前、～てから)
+- [x] Ask and tell what time it is
+- [ ] Ask for and tell when an event is
+- [ ] Specify ranges of time
+- [x] "For X [measurement of time]"
+- [ ] Action order (後、前、～てから、～中)
 
 ###### Particles
-* 「もう」と「まだ」
-* 「だけ」と「しか」
-* 「から」と「まで」
-* 「に」 for indirect objects
+- [x] 「もう」と「まだ」
+- [ ] 「だけ」と「しか」
+- [ ] 「から」と「まで」
+- [ ] 「に」と「へ」
+- [ ] 「に」 for indirect objects
 * etc.
 
 ###### Location and Movement
-* Ask for and give directions
-* Describe where something is
+- [ ] Ask for and give directions
+- [ ] Describe where something is
 
 ###### こそあど Words
-* どれ Group
-* どの Group
-* どこ Group
-* どんな Group
-  * ～に
-* どっち/どちら Group
-* どいつ Group
-* どなた Group
+- [x] どれ Group
+- [x] どの Group
+- [x] どこ Group
+- [ ] どんな Group
+  - [ ] ～に
+- [ ] どっち/どちら Group
+- [ ] どいつ Group
+- [ ] どなた Group
 
 ###### Interrogatives
-* 「なぜ」と「どうして」と「何で」
+- [ ] 「なぜ」と「どうして」と「何で」
   * Spoiler alert: the only difference is that なぜ is more formal
-* 「どう」と「どうして」と「どうやって」
+- [ ] 「どう」と「どうして」と「どうやって」
 
 ###### Differences and Mistakes
-* 「同じです」と「違います」
-* 「違う」と「違い」
-* 「間違う」と「間違える」と「しまう」
+- [x] 「同じです」と「違います」
+- [ ] 「違う」と「違い」
+- [ ] 「間違う」と「間違える」と「しまう」
 
 ###### Conjunctions
-* 「でも」と「が」と「けど」と「のに」
-* 「から」と「ので」
+- [ ] 「でも」と「が」と「けど」と「のに」
+- [ ] 「から」と「ので」と「し」
 
 ###### Misc.
-* Converting Adjectives to Adverbs
+- [x] Converting Adjectives to Adverbs
+- [ ] 「～ている」と「～中」と「～ところ」
+- [ ] Compound Verbs
+- [x] Subsidary Verbs
 
 ## Advanced
-* Utilize [online resources](./Japanese Resources.md) to learn grammer not taught in Genki
+* Utilize [online resources](./Japanese Resources.md) to learn grammar not taught in Genki
 * Now that a solid grammar foundation has been built, start shifting focus from learning new grammar to intonation and pitch accent, vocabulary, and kanji
 * Consider using the *Tobira Gateway to Advanced Japanese* and *An Integrated Approach to Intermediate Japanese* textbooks and associated workbooks for guidance and practice
 

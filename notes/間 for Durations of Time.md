@@ -2,7 +2,7 @@
 tags: [Grammar]
 title: 間 for Durations of Time
 created: '2020-05-10T14:22:55.945Z'
-modified: '2020-05-26T03:17:36.374Z'
+modified: '2020-08-06T00:40:10.765Z'
 ---
 
 # 間 for Durations of Time
@@ -22,7 +22,8 @@ modified: '2020-05-26T03:17:36.374Z'
 ## 日
 ![Chart for days](https://www.learn-japanese-adventure.com/images/t3-japanese-durations-day.png)
 * When specifying a duration of days, 間 should not be used with 一日 and is otherwise optional
-  * E.g., 三日 (みっか) means "third day of the month" *and* "three days," whereas 三日間 (みっかかん) means "three days"
+  * E.g., 三日 (みっか) can mean "third day of the month" *and* "three days," whereas 三日間 (みっかかん) means "three days"
+  * Note that 一日 (ついたち, usu. 1日) is mainly used to represent the first day of the month, and いちにち is used to represent "one day"
 
 ## 週
 ![Chart for weeks](https://www.learn-japanese-adventure.com/images/t3-japanese-durations-week.png)
